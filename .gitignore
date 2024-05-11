@@ -1,0 +1,28 @@
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+bin/
+obj/
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Resharper
+_ReSharper.*
+
+# IDE files
+*.pidb
+*.ide
+
+# Other files
+*.log
+*.userprefs
